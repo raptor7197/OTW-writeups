@@ -1,0 +1,7 @@
+using the find command  
+$ find / -type f -size 33c -group bandit6 -user bandit7 2>&1 | grep -v "Permission denied"
+using the above command to find the required file
+read the file using the following commmand
+cat /var/lib/dpkg/info/bandit7.password
+displays :
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
