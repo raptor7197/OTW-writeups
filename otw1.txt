@@ -1,0 +1,6 @@
+connect to the ssh using the previous password
+run the ls command
+will see a file with the name "-"
+use the command cat < -   to read the file contents
+displays :
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
