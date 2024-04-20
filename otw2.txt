@@ -1,0 +1,8 @@
+ls
+you will get a file name like "spaces in this filename"
+cannot read the contents with normal cat command
+so we have to use
+cat spaces\ in\ this\ filename
+to read the contents 
+displays :
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
