@@ -1,0 +1,5 @@
+cat data.txt 
+use the following command to find the word corresponding to millionth
+find / -name "data.txt" -exec grep -H 'millionth' {} \; 2>&1 | grep -v "Permission denied"
+displays :
+TESKZC0XvTetK0S9xNwm25STk5iWrBvP
