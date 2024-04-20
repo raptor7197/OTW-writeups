@@ -1,0 +1,7 @@
+sort the data in the dtat.txt file with sort command 
+sort data.txt | uniq -c | grep "1 "
+displays:
+      1 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+is your pswd
