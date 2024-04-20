@@ -1,0 +1,5 @@
+in the data .txt file
+we use the following command to filter out as given in to check what strings are precede by several "="characters
+strings data.txt | grep "^=="
+we get :
+passwordk^isG7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
