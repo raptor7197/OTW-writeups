@@ -1,0 +1,11 @@
+login 
+ls -la
+cd into inhere
+ls
+displays :
+-file00  -file01  -file02  -file03  -file04  -file05  -file06  -file07  -file08  -file09
+as the name starts with a hyphen access each file using the 
+cat ./ filename command
+in te file 07 there is the pswd 
+displays :
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
