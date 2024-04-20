@@ -1,0 +1,4 @@
+cat data.txt 
+we get a base 64 encoded string
+using an online decoder we get 
+The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
