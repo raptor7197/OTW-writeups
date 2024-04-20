@@ -1,0 +1,8 @@
+login 
+ls -la
+displays a list od folders avaliable
+given in the hint that size and that it is not executable
+using the find command with the ones that match with it and
+in the maybehere07 file 2
+with cat command displays :
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
