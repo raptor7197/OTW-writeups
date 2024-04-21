@@ -1,0 +1,2 @@
+you have to submit the contents of the file thqat we got in the previous file as the password here
+you can redirect the string using nc command to the netcat
