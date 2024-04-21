@@ -1,0 +1,7 @@
+you have to submit the password of the current level to a port on localhost in the range 31000 to 32000.
+we use nmap to scan the required ports using the following command
+nmap localhost -p31000-32000
+we get a list of addresses 
+then we check which of the following is configured to connect to a no  ssl connection
+echo JQttfApK4SeyHwDlI9SXGR50qclOAil1 | openssl s_client -quiet -connect localhost:31790
+check both the open porte one gives us the rsa key
